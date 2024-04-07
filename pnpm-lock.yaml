@@ -886,7 +886,7 @@ packages:
     dependencies:
       '@rc-component/color-picker': 1.5.3(react-dom@18.2.0)(react@18.2.0)
       '@rc-component/trigger': 1.18.3(react-dom@18.2.0)(react@18.2.0)
-      '@univerjs/icons': 0.1.43(react-dom@18.2.0)(react@18.2.0)
+      '@univerjs/icons': 0.1.44(react-dom@18.2.0)(react@18.2.0)
       clsx: 2.1.0
       dayjs: 1.11.10
       rc-dialog: 9.4.0(react-dom@18.2.0)(react@18.2.0)
@@ -978,8 +978,8 @@ packages:
       rxjs: 7.8.1
     dev: false
 
-  /@univerjs/icons@0.1.43(react-dom@18.2.0)(react@18.2.0):
-    resolution: {integrity: sha512-Ixv15xrzNip/HBxD99nBVkNrkL9Pk2rsWthoRFh0ac0ci5LCxcZgqQD8Fj0GsO98Vi4KEmmIlsQ+5qqOr+PFLA==}
+  /@univerjs/icons@0.1.44(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-emPPhk9aNGIl/wF/z+9KLAq5EG/zmUoSwj2UaHHssnM/mv96Ieob4MpkhTfrVtvtiAUI2zZpUXrbsRX3PShrXg==}
     peerDependencies:
       react: '*'
       react-dom: '*'
@@ -1017,7 +1017,7 @@ packages:
       '@univerjs/design': 0.1.6(clsx@2.1.0)(react-dom@18.2.0)(react@18.2.0)
       '@univerjs/engine-formula': 0.1.6(@univerjs/core@0.1.6)(@wendellhu/redi@0.13.0)(rxjs@7.8.1)
       '@univerjs/engine-render': 0.1.6(@univerjs/core@0.1.6)(@wendellhu/redi@0.13.0)(rxjs@7.8.1)
-      '@univerjs/icons': 0.1.43(react-dom@18.2.0)(react@18.2.0)
+      '@univerjs/icons': 0.1.44(react-dom@18.2.0)(react@18.2.0)
       '@wendellhu/redi': 0.13.0
       clsx: 2.1.0
       localforage: 1.10.0
