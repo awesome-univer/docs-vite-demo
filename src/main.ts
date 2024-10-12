@@ -17,7 +17,7 @@ import { UniverUIPlugin } from "@univerjs/ui";
  */ 
 import { zhCN, enUS } from 'univer:locales'
 
-import { DEFAULT_DOCUMENT_DATA_CN } from './data'
+// import { DEFAULT_DOCUMENT_DATA_CN } from './data'
 
 // univer
 const univer = new Univer({
@@ -46,4 +46,4 @@ univer.registerPlugin(UniverDocsUIPlugin, {
   },
 });
 
-univer.createUnit(UniverInstanceType.UNIVER_DOC, DEFAULT_DOCUMENT_DATA_CN);
+univer.createUnit(UniverInstanceType.UNIVER_DOC, {});
