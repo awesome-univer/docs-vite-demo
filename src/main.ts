@@ -46,4 +46,8 @@ univer.registerPlugin(UniverDocsUIPlugin, {
   },
 });
 
-univer.createUnit(UniverInstanceType.UNIVER_DOC, {});
+
+// workaround: fix show empty with Edge refresh
+setTimeout(() => {
+  univer.createUnit(UniverInstanceType.UNIVER_DOC, {});
+}, 0);

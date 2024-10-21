@@ -8,13 +8,13 @@
     "build": "tsc && vite build"
   },
   "dependencies": {
-    "@univerjs/core": "^0.3.0",
-    "@univerjs/design": "^0.3.0",
-    "@univerjs/docs": "^0.3.0",
-    "@univerjs/docs-ui": "^0.3.0",
-    "@univerjs/engine-formula": "^0.3.0",
-    "@univerjs/engine-render": "^0.3.0",
-    "@univerjs/ui": "^0.3.0"
+    "@univerjs/core": "0.4.1",
+    "@univerjs/design": "0.4.1",
+    "@univerjs/docs": "0.4.1",
+    "@univerjs/docs-ui": "0.4.1",
+    "@univerjs/engine-formula": "0.4.1",
+    "@univerjs/engine-render": "0.4.1",
+    "@univerjs/ui": "0.4.1"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
